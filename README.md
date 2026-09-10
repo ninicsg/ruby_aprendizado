@@ -8,7 +8,6 @@ Ruby 2.1.2 executado com Docker.
 
 ## Executar um exercício
 
-```bash
 docker run --rm -it \
   -v "$(pwd):/app" \
   -w /app \
