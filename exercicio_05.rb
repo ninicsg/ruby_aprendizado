@@ -1,3 +1,6 @@
+#Simular uma calculadora com as operações de adição, subtração multiplicação e divisão, porém agora com opções, o que o usuário digitar equivale a operaçãoq ue o programa vai realizar.
+
+
 puts "================== CALCULADORA ==================\nDigite o primeiro número!"
 numero1 = gets.chomp.to_f
 puts "Digite o segundo número!"

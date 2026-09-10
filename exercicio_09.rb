@@ -1,3 +1,5 @@
+#Receber 3 numeros e definir qual o menor dos 3
+
 puts "Digite o 1 número"
 numero1 = gets.chomp.to_i
 puts "Digite o 2 número"

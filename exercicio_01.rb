@@ -1,3 +1,5 @@
+#Concatenar as variáveis em um puts só
+
 nome = "Nicole"
 idade = 22
 cidade = "Chapecó"

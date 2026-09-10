@@ -1,3 +1,5 @@
+#Receber uma idade e definir se é maior de idade, menor de idade ou idoso.
+
 puts "Digite sua idade"
 idade = gets.chomp.to_i
 

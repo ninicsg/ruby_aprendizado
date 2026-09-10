@@ -1,3 +1,5 @@
+#Receber dois numeros e mostra na tela a soma deles dois
+
 puts "Digite dois numeros!"
 puts "Primeiro número:"
 numero1 = gets.chomp.to_i
